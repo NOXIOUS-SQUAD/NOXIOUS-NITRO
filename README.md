@@ -71,7 +71,7 @@ Windows no permite modificar servicios, registro o energía sin permisos elevado
 
 ```bash
 # 1. Clonar
-git clone https://github.com/tu-usuario/noxious-nitro.git
+git clone https://github.com/NOXIOUS-SQUAD/NOXIOUS-NITRO
 cd noxious-nitro
 
 # 2. Entorno virtual
