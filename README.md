@@ -72,7 +72,7 @@ Windows no permite modificar servicios, registro o energía sin permisos elevado
 ```bash
 # 1. Clonar
 git clone https://github.com/NOXIOUS-SQUAD/NOXIOUS-NITRO
-cd noxious-nitro
+cd NOXIOUS-NITRO
 
 # 2. Entorno virtual
 python -m venv .venv
